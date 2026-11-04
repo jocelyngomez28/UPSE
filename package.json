@@ -1,0 +1,12 @@
+{
+    "name": "UPSE2026",
+    "description": "Para dictar la IoT en la Maestría en la UPSE",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows.json",
+            "credentialsFile": "flows_cred.json"
+        }
+    }
+}
