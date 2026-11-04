@@ -6,5 +6,50 @@
         "disabled": false,
         "info": "",
         "env": []
+    },
+    {
+        "id": "6f9bf78159ce9be9",
+        "type": "inject",
+        "z": "af3198455b72dd71",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "Hola UPSE",
+        "payloadType": "str",
+        "x": 190,
+        "y": 140,
+        "wires": [
+            [
+                "af7ffe3a7edfc20b"
+            ]
+        ]
+    },
+    {
+        "id": "af7ffe3a7edfc20b",
+        "type": "debug",
+        "z": "af3198455b72dd71",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 480,
+        "y": 140,
+        "wires": []
     }
 ]
