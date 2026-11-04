@@ -4,6 +4,6 @@ UPSE2026
 Para dictar la IoT en la Maestría en la UPSE
 
 ### About
-
+Cambio hecho desde GitHub para probar el pull.
 This is your project's README.md file. It helps users understand what your
 project does, how to use it and anything else they may need to know.
